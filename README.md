@@ -1,7 +1,7 @@
 # ChatBotRoulette
 ## A program that allows you to create and naturally converse with different DeepSeek AI personalities with their own voices and even long term memories! 
 
-It works using a group of different API's in order to simulate natural conversation as well as possible. 
+#### It works using a group of different API's in order to simulate natural conversation as well as possible. 
 
 - DeepSeek: For the main thought process of the bots.
   
