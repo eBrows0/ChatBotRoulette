@@ -22,5 +22,7 @@ Simplifying things a bit, the program runs a loop in which it waits for the user
   
 - After that,  I'd recommend the user to create new chatbots since mine are in spanish and made to be humorous. They are located in the _personalidades.py_ file, so go ahead and delete them or alter them however you want! The voices will not work off the bat since they are custom made by my account, but there are a lot of voices offered by ElevenLabs and making your own is incredibly easy. While you are here, you may notice another cycle list named colorRGB, I used that to differentiate between the personalities since I ported the project to a rasperry pi, but you can go ahead and delete that.
 
+- Finally just go ahead and run the main file, and it should work!
+
 ### Conclution
 I started this project in order to help me learn more about AI implementation into software and robotics. I even implemented it into its own standalone device using a raspberry pi zero 2w. I hope more people realize just how easier and cheaper working with AI has become, specially thanks to DeepSeek. Hopefully this repository proves useful and makes working with APIs a bit more bearable for beginners, I do want to apologize for the excesive spanglish if it makes things a bit confusing :P
